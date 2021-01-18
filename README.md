@@ -28,6 +28,7 @@ B[TravFuzz folder] --> C((trav.html))
 B --> D((found.txt))
 B --> E(png folder)
 ```
+
 trav.html   :   holds results
 found.txt  :   holds urls that had hits
 png folder:   Used as reference for the html file
