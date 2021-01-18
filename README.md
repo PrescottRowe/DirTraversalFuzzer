@@ -30,6 +30,9 @@ graph LR
 ```
 
 trav.html  :   holds results
+
 found.txt  :   holds urls that had hits
+
 png folder :   Used as reference for the html file
+
 
