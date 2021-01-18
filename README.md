@@ -13,9 +13,9 @@ Sample screenshot of the html file output:
 
 ### My suggested lists
 
-[Linux](http://handlebarsjs.com/)
+[Linux](https://github.com/PrescottRowe/DirTraversalFuzzer/blob/main/fuzzingLists/lin-traversal.txt)
 
-[Windows](http://handlebarsjs.com/)
+[Windows](https://github.com/PrescottRowe/DirTraversalFuzzer/blob/main/fuzzingLists/win-traversal.txt)
 
 
 ## UML diagram
