@@ -22,14 +22,14 @@ Sample screenshot of the html file output:
 Files created by the script:
 
 ```mermaid
-graph LR
-A{travFuzz.sh}
-B[TravFuzz folder] --> C((trav.html))
-B --> D((found.txt))
-B --> E(png folder)
+graph LR;
+  A{travFuzz.sh};
+  B[TravFuzz folder] --> C((trav.html));
+  B --> D((found.txt));
+  B --> E(png folder);
 ```
 
-trav.html   :   holds results
+trav.html  :   holds results
 found.txt  :   holds urls that had hits
-png folder:   Used as reference for the html file
+png folder :   Used as reference for the html file
 
